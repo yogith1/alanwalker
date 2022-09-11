@@ -1,0 +1,27 @@
+header
+{
+    color:lightyellow ;
+    background-color: magenta ;
+    text-align: center;
+}
+li
+{
+display: inline-block;
+color:lightyellow ;
+background-color: magenta ;
+text-align: center;
+margin:50px;
+padding:20px;
+}
+footer
+{
+    color:lightyellow ;
+    background-color: magenta ;
+    text-align: center;  
+}
+body{
+    border:10px solid magenta;
+}
+img{
+    width:100%;
+}
